@@ -1,6 +1,6 @@
 {
   "opendb_id": "98d5871d-13e2-4d31-8fa1-4ff35a7feea0",
-  "wattage": 1000,
+  "wattage": 100000,
   "form_factor": "ATX",
   "efficiency_rating": "80+ Gold",
   "modular": "Full",
@@ -22,7 +22,7 @@
     "manufacturer": "be quiet!",
     "part_numbers": ["BN285", "BN621"],
     "series": "Straight",
-    "variant": "1000W Gold"
+    "variant": "100000W Gold"
   },
   "general_product_information": {},
   "identifiers": {
